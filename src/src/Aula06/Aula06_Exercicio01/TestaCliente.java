@@ -1,4 +1,4 @@
-package Aula06_Exercicio01;
+package Aula06.Aula06_Exercicio01;
 
 public class TestaCliente {
     public static void main(String[] args) {

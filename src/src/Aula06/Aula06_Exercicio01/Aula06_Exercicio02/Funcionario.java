@@ -1,4 +1,4 @@
-package Aula06_Exercicio02;
+package Aula06.Aula06_Exercicio01.Aula06_Exercicio02;
 
 public class Funcionario{
     int id;

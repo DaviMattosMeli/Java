@@ -1,6 +1,4 @@
-package Aula06_Exercicio03;
-
-import Aula06_Exercicio01.Cliente;
+package Aula06.Aula06_Exercicio01.Aula06_Exercicio03;
 
 public class TestaGame {
 

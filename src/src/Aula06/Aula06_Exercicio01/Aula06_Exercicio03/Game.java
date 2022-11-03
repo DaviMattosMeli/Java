@@ -1,4 +1,4 @@
-package Aula06_Exercicio03;
+package Aula06.Aula06_Exercicio01.Aula06_Exercicio03;
 
 public class Game{
     int id;
